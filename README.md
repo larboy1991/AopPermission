@@ -1,5 +1,7 @@
 ## 一、配置
 
+[![](https://jitpack.io/v/larboy1991/AopPermission.svg)](https://jitpack.io/#larboy1991/AopPermission)
+
 	allprojects {
 		repositories {
 			...
@@ -12,7 +14,7 @@
 	}
 
 	dependencies {
-			 implementation 'com.github.larboy1991:AopPermission:0.0.1'
+			 implementation 'com.github.larboy1991:AopPermission:0.0.2'
 	}
 
 
